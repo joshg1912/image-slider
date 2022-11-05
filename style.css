@@ -1,4 +1,17 @@
 .container {
     border: 2px solid black;
-    min-height: 85vh;
+    min-height: 65vh;
+}
+
+.row {
+    border: 2px solid red;
+    min-height: 500px;
+    width: 80%;
+    margin: 0 auto 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.column {
+    border: 2px solid blue;
 }
